@@ -1,0 +1,4 @@
+frbs
+====
+
+Firebase CLI Client
