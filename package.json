@@ -1,23 +1,26 @@
 {
-	"name": "frbs",
-	"description": "Firebase CLI Client",
-	"keywords": ["firebase"],
-	"version": "0.1.0",
-	"author": {
-		"name": "Erik Beeson",
-		"email": "erik.beeson@gmail.com"
-	},
-	"dependencies": {
-		"firebase": "~0.6.22",
-		"optimist": "~0.6.0"
-	},
-	"bin": "./frbs.js",
-	"license": "MIT",
-	"preferGlobal": true,
-	"homepage": "http://github.com/ebeeson/frbs",
-	"repository" : {
-		"type": "git",
-		"url": "https://github.com/ebeeson/frbs.git"
-	},
-	"bugs": "https://github.com/ebeeson/frbs/issues"
+  "name": "frbs",
+  "description": "Firebase CLI Client",
+  "keywords": [
+    "firebase"
+  ],
+  "version": "0.2.0",
+  "author": {
+    "name": "Erik Beeson",
+    "email": "erik.beeson@gmail.com"
+  },
+  "dependencies": {
+    "firebase": "~0.6.22",
+    "optimist": "~0.6.0",
+    "rsvp": "~2.0.4"
+  },
+  "bin": "./frbs.js",
+  "license": "MIT",
+  "preferGlobal": true,
+  "homepage": "http://github.com/ebeeson/frbs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebeeson/frbs.git"
+  },
+  "bugs": "https://github.com/ebeeson/frbs/issues"
 }
